@@ -1,0 +1,1 @@
+Test-NetConnection -computer sbgpubliccloudsecurity.database.windows.net -port 1433
